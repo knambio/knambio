@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kinno
-- 👀 I’m interested in all Web Development, Gaming and all things technology
+- 👀 I’m interested in all Web Development, Gaming and all things technology... oh and sushi
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
